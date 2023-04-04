@@ -8,7 +8,7 @@ Install from <a href="requirements.txt">requirements.txt</a>
 Download <a href="https://drive.google.com/drive/folders/18bwm-RiHETRCS5yD9G00seFIcrJHIvD-?usp=sharing">Datasets</a>
 
 ## Config
-You must change the path in <a href="config.py">script.py</a>
+You must change the path in <a href="config.py">config.py</a>
 
 ## Run
 ```
